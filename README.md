@@ -3,7 +3,8 @@
 Some tests around the zf2 ServiceManager
 
 run the tests with
-     env ZF2_PATH=~/dev/external/zf-2/library/ php test01.php
+
+     env ZF2_PATH=/path/to/zf2/library php test01.php
 
 ## test01.php
 
